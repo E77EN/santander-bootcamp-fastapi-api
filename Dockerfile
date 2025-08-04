@@ -1,6 +1,6 @@
 FROM python:3.9-slim-buster
 
-WORKDiR /app  # <--- CORRIGIDO AQUI
+WORKDIR /app  # <--- CORRIGIDO AQUI
 
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
