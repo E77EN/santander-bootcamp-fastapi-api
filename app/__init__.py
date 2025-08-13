@@ -1,0 +1,2 @@
+# FastAPI Crossfit Academy API
+
