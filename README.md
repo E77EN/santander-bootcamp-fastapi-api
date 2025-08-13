@@ -1,6 +1,6 @@
-# CrossFit Academy API
+# API de Gerenciamento para Academias de CrossFit
 
-API para gerenciamento de academia de CrossFit desenvolvida com FastAPI, Python e Docker.
+*Uma API robusta e assíncrona, construída com FastAPI e Python para o Bootcamp Santander 2025, pronta para ser executada em contêineres Docker.*
 
 ## Funcionalidades
 
