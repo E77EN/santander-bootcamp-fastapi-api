@@ -37,7 +37,7 @@ santander-bootcamp-fastapi-api/
 
 ```
 
-## Como Executar
+##  Método 1: Com Docker (Recomendado)
 
 ### Pré-requisitos
 
@@ -130,9 +130,7 @@ POST /atletas/
 }
 ```
 
-## Desenvolvimento
-
-### Executar localmente (sem Docker)
+### Método 2: Executar localmente (sem Docker)
 
 1. **Instale as dependências**
 ```bash
